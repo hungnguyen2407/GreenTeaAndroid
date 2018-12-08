@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item-->
+    <!--android:id="@+id/menu_action_search"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="@string/menu_action_search"-->
+    <!--app:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/menu_action_group_join"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_group_join"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_action_post_announce"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_post_announce"
+        app:showAsAction="never" />
+</menu>
